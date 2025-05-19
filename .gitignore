@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings folder (if using VS Code)
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Other files to ignore
+*.egg-info/
+dist/
+build/
