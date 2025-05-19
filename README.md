@@ -3,8 +3,6 @@
 
 This Streamlit web application predicts the **median price of a house in Boston** using a **Linear Regression** model. Users can interactively adjust neighborhood and housing features, and the model will estimate the property value in real-time.
 
-![App Screenshot](https://i.imgur.com/Uv7QTw8.png) <!-- Optional: You can replace this with your own image -->
-
 ---
 
 ## 🔍 Overview
