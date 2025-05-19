@@ -81,9 +81,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
-
-
 # Show raw data toggle
 if st.checkbox('Show raw data'):
     st.subheader('Boston Housing Dataset Sample')
